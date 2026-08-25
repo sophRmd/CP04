@@ -1,3 +1,5 @@
+# Dupla: Camila de Sousa Santana e Sophia Teixeira Ramada
+
 # Lista inicial de produtos do sistema
 produtos = [
     {
